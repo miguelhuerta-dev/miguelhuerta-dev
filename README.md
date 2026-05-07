@@ -9,7 +9,7 @@ Convierto ideas en soluciones digitales. Desde páginas web profesionales para n
 ### 🚀 Lo que hago
 
 - 🌐 **Desarrollo Web** — Sitios corporativos, portafolios, landing pages. Diseño responsive, hosting gratuito y mantenimiento.
-- 🖥️ **Software de Escritorio** — Sistemas de ventas, inventario, gestión. Hechos a medida en Python y Java.
+- 🩺 **Sistemas con IA** — Herramientas inteligentes para el sector salud. Mi proyecto **Lumina** ayuda a médicos a tomar decisiones clínicas más acertadas.
 - 🎮 **Desarrollo de Videojuegos** — Experiencias interactivas con Pygame.
 - 🤖 **Automatización** — Bots de Discord, scripts, herramientas que ahorran tiempo.
 
@@ -17,7 +17,7 @@ Convierto ideas en soluciones digitales. Desde páginas web profesionales para n
 
 ### 🧰 Stack Tecnológico
 
-`HTML5` `CSS3` `JavaScript` `Python` `Java` `Git` `GitHub Pages` `Pygame` `Responsive Design`
+`🌐 HTML5` `🎨 CSS3` `⚡ JavaScript` `🐍 Python` `☕ Java` `🗄️ SQL` `📦 Git` `🌍 GitHub Pages` `🎮 Pygame` `🧠 Inteligencia Artificial`
 
 ---
 
@@ -25,9 +25,9 @@ Convierto ideas en soluciones digitales. Desde páginas web profesionales para n
 
 | Proyecto | Descripción | Tecnología |
 |----------|-------------|------------|
-| 🌐 Sitios Web Corporativos | Páginas profesionales para negocios con diseño personalizado | HTML, CSS, JS |
-| 📊 Lumina | Sistema registrador de ventas con inventario y reportes | Python |
-| 🎮 Sistema de Retos | Videojuego interactivo con animaciones y colisiones | Python, Pygame |
+| 🌐 Sitios Web Corporativos | Páginas profesionales para negocios con diseño personalizado, formularios de contacto, galerías de evidencia y hosting gratuito. | HTML, CSS, JS |
+| 🩺 Lumina | Sistema médico con base de datos que implementa inteligencia artificial para mejorar opiniones de médicos y generar juicios clínicos más acertados. | Python, IA, SQL |
+| 🎮 Sistema de Retos | Videojuego interactivo con animaciones fluidas, detección de colisiones y lógica de juego completa. | Python, Pygame |
 
 ---
 
@@ -35,7 +35,7 @@ Convierto ideas en soluciones digitales. Desde páginas web profesionales para n
 
 - 📧 **Email:** miguelhuerta.softwaredev@gmail.com
 - 💬 **WhatsApp:** [Enviar mensaje](https://wa.me/5212211038688)
-- 🌐 **Portafolio:** [miguelangelhuerta.github.io](https://miguelangelhuerta.github.io)
+- 🌐 **Portafolio:** Próximamente en GitHub Pages
 
 ---
 
