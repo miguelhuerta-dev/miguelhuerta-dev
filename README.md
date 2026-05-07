@@ -34,7 +34,7 @@ Convierto ideas en soluciones digitales. Desde páginas web profesionales para n
 ### 📬 Contacto
 
 - 📧 **Email:** miguelhuerta.softwaredev@gmail.com
-- 💬 **WhatsApp:** [Enviar mensaje](https://wa.me/5212223585123)
+- 💬 **WhatsApp:** [Enviar mensaje](https://wa.me/5212211038688)
 - 🌐 **Portafolio:** [miguelangelhuerta.github.io](https://miguelangelhuerta.github.io)
 
 ---
