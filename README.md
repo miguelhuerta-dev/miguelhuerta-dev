@@ -66,7 +66,7 @@
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MiguelAngelHuerta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAngelHuerta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelhuerta-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF" />
 </div>
 
 <div align="center">
