@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-Enviar%20mensaje-1a1a1d?style=flat-square&logo=whatsapp&logoColor=a78bfa&labelColor=141416&color=1a1a1d"/>
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=MiguelAngelHuerta&label=visitas&color=1a1a1d&labelColor=141416&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=miguelhuerta-dev&label=visitas&color=1a1a1d&labelColor=141416&style=flat-square" />
 </div>
 
 ---
