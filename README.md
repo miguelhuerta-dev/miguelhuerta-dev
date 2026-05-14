@@ -135,7 +135,7 @@ Experiencia interactiva con animaciones fluidas, detección de colisiones y lóg
 <h2>○ GitHub</h2>
 
 <div align="center">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=MiguelAngelHuerta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=888888&count_private=true&hide_title=true" />
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=miguelhuerta-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=888888&count_private=true&hide_title=true" />
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelhuerta-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=888888" />
 </div>
 
