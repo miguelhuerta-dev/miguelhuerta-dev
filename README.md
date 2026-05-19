@@ -52,7 +52,7 @@
 <br/>
 
 > Ecosistema médico completo para clínicas y consultorios.
-> No es un CRUD. Es una plataforma integral con diagnóstico asistido por IA.
+> No es un CRUD. Es una plataforma integral con diagnóstico asistido por IA..
 
 <br/>
 
