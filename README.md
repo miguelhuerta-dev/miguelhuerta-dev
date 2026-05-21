@@ -26,7 +26,7 @@
 <!-- SOBRE MÍ -->
 <h2>○ Sobre mí</h2>
 
-> *"Ideas en la mente, código en los dedos. Así convierto problemas en soluciones."*
+> *"Ideas en la mente, código en los dedos. Así convierto problemas en soluciones.."*
 
 | | |
 |---|---|
