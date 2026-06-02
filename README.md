@@ -89,7 +89,7 @@
 <details>
 <summary><b>🌐 Sitios Web Corporativos</b></summary>
 <br/>
-Páginas profesionales y responsive para negocios. Formularios de contacto, galerías, hosting gratuito de por vida vía GitHub Pages.
+Páginas profesionales y responsive para negocios. Formularios de contacto, galerías, hosting gratuito del mock up de tu págna gratuito  vía GitHub Pages.
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-1a1a1d?style=flat-square&logo=html5&logoColor=a78bfa" />
