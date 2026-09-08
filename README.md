@@ -1,9 +1,7 @@
 <!-- HEADER -->
 
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1200&color=39FF14&center=true&vCenter=true&width=520&lines=%3E+VAULT-TEC+TERMINAL+ACCESS+GRANTED_;%3E+FULL+STACK+DEVELOPER+%7C+PUEBLA%2C+MX_;%3E+IA+APLICADA+A+SISTEMAS+DE+SALUD_" />
-</div>
+
 
 <br/>
 
