@@ -1,7 +1,5 @@
 <!-- HEADER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0f0a,0d1a0d,39ff14&height=180&section=header&text=MIGUEL%20A.%20HUERTA%20V.&fontSize=36&fontColor=39ff14&animation=fadeIn&fontAlignY=38&desc=SYSTEM%20INITIALIZED&descAlignY=62&descSize=16" width="100%" />
-</div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1200&color=39FF14&center=true&vCenter=true&width=520&lines=%3E+VAULT-TEC+TERMINAL+ACCESS+GRANTED_;%3E+FULL+STACK+DEVELOPER+%7C+PUEBLA%2C+MX_;%3E+IA+APLICADA+A+SISTEMAS+DE+SALUD_" />
