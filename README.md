@@ -3,7 +3,7 @@
 # Miguel Ángel Huerta Vázquez
 ### Full Stack Developer · Puebla, México
 
-Sistemas con Inteligencia Artificial aplicada a salud
+Sistemas aplicados a salud
 
 <br/>
 
