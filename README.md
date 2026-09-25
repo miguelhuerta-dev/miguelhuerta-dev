@@ -1,9 +1,10 @@
 <div align="center">
 
 # Miguel Ángel Huerta Vázquez
-### Full Stack Developer · Puebla, México
+### Full Stack Developer — Sistemas de Salud & IA Aplicada
 
-Sistemas aplicados a salud
+Construyo software a la medida: base de datos, backend, frontend y despliegue.
+Sin plantillas, sin atajos.
 
 <br/>
 
@@ -19,40 +20,64 @@ Sistemas aplicados a salud
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,py,mssql,git&theme=dark" height="55"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,mssql,js,html,css,bootstrap,py,git&theme=dark" height="55"/>
 
 </div>
 
 <br/>
 
-## Lumina — Plataforma Médica con IA
+## Ahora mismo
 
-**Producción · 2025 · Vendido a cliente real**
+- Iterando **Lumina** en producción — plataforma médica con IA, con cliente real activo.
+- Construyendo el CRM de **Isidro Huerta** — proyecto vendido, primer pago recibido, en desarrollo.
+- Desarrollando el sitio corporativo de una **abogada especializada en compliance & AI governance**.
 
-Ecosistema clínico integral para consultorios y clínicas: diagnóstico asistido por IA, gestión de pacientes y análisis clínico automatizado.
+<br/>
 
-| Módulo | Descripción |
-|:--|:--|
-| **IA Diagnóstico** | Informes clínicos automáticos con Gemini 2.5 Flash |
-| **IA Nutrición** | Planes alimenticios personalizados por paciente |
-| **Química Sanguínea** | 35 elementos con historial completo |
-| **Composición Corporal** | Métricas Tanita + Physique Rating |
-| **Calculadora SMAE** | Algoritmo propio del Sistema Mexicano |
-| **Agenda de Citas** | API REST + FullCalendar |
-| **Autenticación** | BCrypt + control de roles |
+## Proyectos destacados
+
+### 🩺 Lumina — Plataforma Médica con IA
+`Producción · 2025 · Vendido a cliente real`
+
+Ecosistema clínico para consultorios y clínicas: diagnóstico asistido por IA, gestión de pacientes y análisis clínico automatizado.
+
+- Informes clínicos automáticos con Gemini 2.5 Flash + planes de nutrición personalizados
+- Química sanguínea (35 elementos) y composición corporal (métricas Tanita)
+- Calculadora SMAE propia (Sistema Mexicano) + agenda de citas vía API REST
 
 `C# · .NET · Entity Framework · SQL Server · Gemini API · BCrypt · REST API`
 
 <br/>
 
+### 🧭 Isidro Huerta — CRM de Mentoring
+`Vendido · Primer pago recibido · En desarrollo`
+
+CRM a la medida para un mentor ejecutivo de alto nivel: reemplaza WhatsApp, notas sueltas y memoria por un sistema real de gestión de cartera.
+
+- Panel dual — mentor (CRM, dashboard, timeline de interacciones) y mentorado (tareas, progreso, chat)
+- Autenticación con roles vía ASP.NET Core Identity
+- Diseño mobile-first tipo app nativa, sin dependencia de App Store
+
+`ASP.NET Core 8 · C# 12 · Entity Framework Core · SQL Server · Bootstrap 5 · SignalR`
+
+<br/>
+
+### ⚖️ Sitio Corporativo — Abogada Corporativa & Compliance
+`Cliente activo · 2026`
+
+Sitio web a la medida para una abogada especializada en gobernanza corporativa, compliance y AI governance.
+
+- Carrusel de colaboraciones institucionales con tarjetas interactivas
+- Sistema de credenciales y formación académica con micro-animaciones propias
+- 100% responsive, sin frameworks — HTML, CSS y JavaScript puro
+
+`HTML5 · CSS3 · JavaScript`
+
+<br/>
+
 ## Otros proyectos
 
-**Sitios Web Corporativos**
-Sitios responsive con formularios de contacto y galerías, desplegados vía GitHub Pages.
-`HTML5 · CSS3 · JavaScript · GitHub Pages`
-
-**Sistema de Retos**
-Videojuego 2D con animaciones, detección de colisiones y lógica de juego completa.
+**Sistema de Retos** — Videojuego 2D con animaciones, detección de colisiones y lógica de juego completa.
 `Python · Pygame`
 
 <br/>
@@ -76,5 +101,7 @@ Videojuego 2D con animaciones, detección de colisiones y lógica de juego compl
 
 [![Gmail](https://img.shields.io/badge/Gmail-miguelhuerta.softwaredev%40gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelhuerta.softwaredev@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contactar-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5212211038688)
+
+</div>WhatsApp-Contactar-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5212211038688)
 
 </div>
