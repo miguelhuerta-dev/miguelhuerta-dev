@@ -37,7 +37,7 @@ Sin plantillas, sin atajos.
 ## Proyectos destacados
 
 ### 🩺 Lumina — Plataforma Médica con IA
-`Producción · 2025 · Vendido a cliente real`
+`Producción · 2025 · Vendido a cliente `
 
 Ecosistema clínico para consultorios y clínicas: diagnóstico asistido por IA, gestión de pacientes y análisis clínico automatizado.
 
@@ -50,7 +50,7 @@ Ecosistema clínico para consultorios y clínicas: diagnóstico asistido por IA,
 <br/>
 
 ### 🧭 Isidro Huerta — CRM de Mentoring
-`Vendido · Primer pago recibido · En desarrollo`
+`Vendido · · En desarrollo`
 
 CRM a la medida para un mentor ejecutivo de alto nivel: reemplaza WhatsApp, notas sueltas y memoria por un sistema real de gestión de cartera.
 
