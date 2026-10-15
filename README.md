@@ -4,7 +4,7 @@
 ### Full Stack Developer — Sistemas de Salud & IA Aplicada
 
 Construyo software a la medida: base de datos, backend, frontend y despliegue.
-Sin plantillas, sin atajos.
+Sin plantillas, sin atajos..
 
 <br/>
 
