@@ -4,8 +4,8 @@
 
 ### Desarrollador .NET · C# · full-stack
 
-Construyo sistemas a la medida de principio a fin: base de datos, backend, interfaz y despliegue.<br/>
-Sin plantillas, sin atajos.
+Construyo sistemas a la medida y apps multiplataforma de principio a fin: base de datos, backend, interfaz y despliegue.<br/>
+Y sitios web que hoy atienden a negocios reales. Sin plantillas, sin atajos.
 
 <br/>
 
@@ -18,9 +18,9 @@ Sin plantillas, sin atajos.
 
 <br/>
 
-![Sistemas vendidos](https://img.shields.io/badge/2-sistemas_vendidos-C9A7F5?style=flat-square&labelColor=222222)
-![App de escritorio](https://img.shields.io/badge/1-app_Windows_·_macOS-F5A3C7?style=flat-square&labelColor=222222)
-![Sitios en línea](https://img.shields.io/badge/4-sitios_en_línea-F4B740?style=flat-square&labelColor=222222)
+![Sistemas vendidos](https://img.shields.io/badge/7-sistemas_vendidos-C9A7F5?style=flat-square&labelColor=222222)
+![App multiplataforma](https://img.shields.io/badge/1-app_Windows_·_macOS_·_Linux_·_Android-F5A3C7?style=flat-square&labelColor=222222)
+![Sitios en línea](https://img.shields.io/badge/6-sitios_en_línea-F4B740?style=flat-square&labelColor=222222)
 ![Pruebas](https://img.shields.io/badge/38-pruebas_unitarias-8FD19E?style=flat-square&labelColor=222222)
 
 </div>
@@ -33,98 +33,127 @@ Sin plantillas, sin atajos.
 
 **Principal**
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,mssql&theme=light" height="52"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,mssql,sqlite&theme=light" height="52"/>
 
-`C#` · `ASP.NET Core` · `.NET MAUI + Blazor` · `Entity Framework Core` · `SQL Server` · `SignalR`
+`C#` · `ASP.NET Core (.NET 10)` · `.NET MAUI + Blazor Hybrid` · `Entity Framework Core` · `SQL Server` · `SQLite` · `SignalR`
 
 <br/>
 
 **También uso**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,py,git,godot&theme=light" height="40"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,py,git,github,figma,godot&theme=light" height="40"/>
+
+`ASP.NET Core Identity` · `xUnit` · `PWA` · `REST API` · `IA (Groq · Llama 3.3)` · `pdf.js` · `GSAP` · `Playwright` · `GitHub Pages`
 
 </div>
 
 <br/>
 
+## Qué sé hacer
+
+| Área | En la práctica |
+|---|---|
+| **Backend .NET** | ASP.NET Core MVC y APIs, Identity con roles, EF Core con migraciones, SQL Server o SQLite según el despliegue |
+| **Tiempo real** | SignalR: chat con presencia, "escribiendo…" y leído; listas de control que se sincronizan entre mentor y mentorado |
+| **Apps multiplataforma** | .NET MAUI + Blazor Hybrid: una sola base de código para Windows, macOS, Linux y Android, con instalador y versión portable |
+| **IA aplicada** | Lectura automática de estudios de laboratorio y redacción de notas clínicas, enviando solo datos anonimizados |
+| **Seguridad y privacidad** | Revisión de código, cookies endurecidas, CSP, límite de intentos, archivos privados con control de acceso, aviso de privacidad y descarga de datos propios |
+| **Calidad** | Lógica separada de la interfaz y cubierta con xUnit; pruebas de flujos en navegador real con Playwright |
+| **Diseño e interfaz** | Diseño propio, mobile-first, modo día/noche, `prefers-reduced-motion`, de Figma a Razor/CSS |
+| **Web para negocios** | Sitios estáticos rápidos, bilingües o multilingües, catálogos, cotización por WhatsApp, SEO y hosting gratuito |
+
+<br/>
+
 ## Ahora mismo
 
-- Iterando **Lumina** en producción: plataforma médica con IA, con cliente real activo.
-- Construyendo el CRM de **Isidro Huerta**: proyecto vendido, primer pago recibido, en desarrollo. Lo desarrollo yo solo, de principio a fin.
-- Preparando **Hito** para descarga gratuita en Windows y macOS.
-- Desarrollando el sitio corporativo de una **abogada especializada en compliance y AI governance**.
+- Iterando **Lumina 3.0** en producción: sistema clínico con IA, en consultorios reales.
+- Construyendo el CRM de **Isidro Huerta**: proyecto vendido y en desarrollo, ahora con agenda, seguimiento, biblioteca de contenido y edición portable. Lo desarrollo yo solo, de principio a fin.
+- Publicando **Hito 0.4.0**: ya se puede descargar gratis para Windows, macOS, Linux y Android.
+- Desarrollando **Lo que la peste ocultó**, mi videojuego narrativo en Godot 4.
 
 <br/>
 
 ## Proyectos destacados
 
-### Hito · Agenda personal de escritorio
-`Último proyecto` · `Windows y macOS` · `Gratis · descarga próximamente`
+### Lumina · Sistema clínico con IA
+`En producción` · `Lumina 3.0` · `Windows y macOS` · `Vendido a cliente`
+
+[![Lumina](https://miguelhuerta-dev.github.io/assets/img/lumina/01-tu-dia.jpg)](https://miguelhuerta-dev.github.io/#lumina)
+
+Expediente clínico, laboratorios, placas, recetas, agenda y cobros para consultorios médicos y de nutrición. Los expedientes nunca salen del consultorio.
+
+- Lectura automática de laboratorios (PDF o foto): resultados ordenados por panel, fuera de rango marcados e índices como HOMA-IR, FIB-4 y filtrado glomerular
+- Visor DICOM dentro del expediente: comparación lado a lado, brillo, contraste y medición en milímetros
+- Consulta guiada con dictado por voz y **14,484 códigos CIE-10** en español sin internet; nota firmada y protegida (NOM-004)
+- Recetas con doble verificación contra alergias y tratamiento habitual
+- 9 escalas clínicas (PHQ-9, GAD-7, FINDRISC…), documentos con firma en pantalla, caja y cobros, planes con equivalentes SMAE
+- 7 especialidades por módulo; IA opcional que solo recibe datos sin nombre ni CURP
+
+`C# · ASP.NET Core (.NET 10) · EF Core · SQLite · Groq · Llama 3.3 70B`
+
+**[Ver demo en video →](https://miguelhuerta-dev.github.io/#lumina)**
+
+<br/>
+
+### Hito · Agenda personal multiplataforma
+`Último proyecto` · `v0.4.0` · `Windows · macOS · Linux · Android` · `Gratis`
 
 [![Hito](https://miguelhuerta-dev.github.io/assets/img/hito/01-hoy.jpg)](https://miguelhuerta-dev.github.io/#hito)
 
-Agenda que junta en una sola línea de tiempo tus actividades, marcadores históricos, entrenamientos y finanzas personales. Tus datos se quedan en tu equipo.
+Agenda que junta en una sola línea de tiempo tus actividades, marcadores históricos, entrenamientos y finanzas personales. Funciona sin internet y tus datos se quedan en tu equipo.
 
 - Repeticiones flexibles (diario, días de la semana, "el último viernes del mes"), historial por día y mapa de constancia
 - Entrenamiento con cronómetro de sesión y descanso entre series
 - Tarjetas de crédito con fecha de corte, fecha límite y pago para no generar intereses; suscripciones con su costo al año
-- Modo día, noche y automático, con diseño e iconografía propios
+- Español e inglés, recorrido inicial, búsqueda global (Ctrl + K) y respaldo de datos
+- Instalador para Windows, APK para Android y versión portable para Windows, macOS y Linux
 - Lógica separada de la interfaz y cubierta por 38 pruebas unitarias
 
 `C# · .NET 10 · .NET MAUI · Blazor Hybrid · xUnit`
 
-**[Ver demo en video →](https://miguelhuerta-dev.github.io/#hito)**
+**[Descargar gratis →](https://github.com/miguelhuerta-dev/hitodemo)** · **[Ver demo en video →](https://miguelhuerta-dev.github.io/#hito)**
 
 <br/>
 
 ### Isidro Huerta · CRM de Mentoring
 `Vendido` · `En desarrollo` · `Desarrollo completo: 1 persona`
 
-[![Mentoring CRM](https://miguelhuerta-dev.github.io/assets/img/mentoring/01-panel-mentor.jpg)](https://miguelhuerta-dev.github.io/#mentoring)
+[![Mentoring CRM](https://miguelhuerta-dev.github.io/assets/img/mentoring/01-panel.jpg)](https://miguelhuerta-dev.github.io/#mentoring)
 
-CRM a la medida para un mentor ejecutivo de alto nivel: reemplaza WhatsApp, notas sueltas y memoria por un sistema real de gestión de cartera. Lo desarrollé yo solo, de principio a fin.
+CRM a la medida para un mentor ejecutivo: reemplaza WhatsApp, notas sueltas y memoria por un sistema real de gestión de cartera, con un panel para el mentor y otro para cada mentorado.
 
-- Panel dual: mentor (CRM, dashboard, línea de tiempo de interacciones) y mentorado (tareas, progreso, chat)
-- Tiempo real con SignalR: el panel del mentor se actualiza sin recargar
-- Autenticación con roles vía ASP.NET Core Identity
-- Diseño mobile-first tipo app nativa, sin depender de una tienda de apps
+- Embudo de clientes con arrastrar y soltar, panel de atención con alertas y alta de mentorados en tres pasos
+- Chat en tiempo real con SignalR: presencia, "escribiendo…", leído y notas de voz
+- Biblioteca de contenido tipo Drive con permisos por mentorado, visor de PDF/slides/video y avance guardado
+- Listas de control sincronizadas en vivo, agenda de sesiones con exportación .ics, metas y check-in semanal
+- Seguridad revisada: Identity con roles, archivos privados, CSP, límite de intentos y descarga de datos propios
+- PWA mobile-first tipo app nativa, y edición portable con SQLite que corre desde una USB
 
-`ASP.NET Core 8 · C# 12 · Entity Framework Core · SQL Server · Bootstrap 5 · SignalR`
+`ASP.NET Core MVC (.NET 10) · C# · Entity Framework Core · SQL Server · SQLite · SignalR · Bootstrap 5 · PWA`
 
 **[Ver demo en video →](https://miguelhuerta-dev.github.io/#mentoring)**
 
 <br/>
 
-### Lumina · Plataforma médica con IA
-`En producción` · `2025` · `Vendido a cliente`
-
-Ecosistema clínico para consultorios y clínicas: diagnóstico asistido por IA, gestión de pacientes y análisis clínico automatizado.
-
-- Informes clínicos automáticos con Gemini 2.5 Flash y planes de nutrición personalizados
-- Química sanguínea (35 elementos) y composición corporal (métricas Tanita)
-- Calculadora SMAE propia (Sistema Mexicano de Alimentos Equivalentes) y agenda de citas vía API REST
-
-`C# · .NET · Entity Framework · SQL Server · Gemini API · BCrypt · REST API`
-
-<br/>
-
 ### Sitios web para negocios
-`4 sitios en línea`
+`6 sitios en línea`
 
 | Sitio | Qué hace |
 |---|---|
-| [Gabriela L. González Vázquez](https://gabrielagonzalezvazquez.github.io/) | Abogada corporativa y compliance: sitio bilingüe, trayectoria y blog |
+| [Gabriela L. González Vázquez](https://gabrielagonzalezvazquez.github.io/) | Abogada corporativa y compliance: sitio bilingüe, trayectoria y blog con artículos propios |
+| [Cenit Comunicaciones · Isidro Huerta](https://isidrohuerta.github.io/) | Consultoría y mentoría ejecutiva: servicios, presentaciones gratuitas con visor y contacto |
+| [Galería Dra. Leticia Vázquez Reyes](https://draleticiavazquezreyes.github.io/) | Galería virtual de óleo: salas con filtros, visor a pantalla completa, lupa y encargos |
 | [Bravar Sports Bar](https://bravarsportsbar.github.io/) | Menú que se hojea como libro, en 7 idiomas y descargable en PDF |
 | [Moto Partes Rivera](https://motopartesrivera.github.io/) | Refaccionaria que vende en Amazon: catálogo y pedidos por WhatsApp |
-| [Comercializadora D'Cortés](https://comercializadoradcortes.github.io/) | Catálogo con precios y cotización que llega por WhatsApp |
+| [Comercializadora D'Cortés](https://comercializadoradcortes.github.io/) | Catálogo con precios por variante y cotización que llega por WhatsApp |
 
-`HTML5 · CSS3 · JavaScript · GitHub Pages` · **[Ver cada sitio en video →](https://miguelhuerta-dev.github.io/portafolio.html)**
+`HTML5 · CSS3 · JavaScript · GSAP · GitHub Pages` · **[Ver cada sitio en video →](https://miguelhuerta-dev.github.io/portafolio.html)**
 
 <br/>
 
 ## Otros proyectos
 
-**Lo que la peste ocultó**: videojuego narrativo 2D de sigilo ambientado en 1348, en desarrollo para PC. `Godot 4 · Pixel art`
+**Lo que la peste ocultó**: videojuego narrativo 2D de sigilo ambientado en Castilla, 1348, en desarrollo para PC. `Godot 4 · Pixel art`
 
 **Sistema de Retos**: videojuego 2D con animaciones, detección de colisiones y lógica de juego completa. `Python · Pygame`
 
