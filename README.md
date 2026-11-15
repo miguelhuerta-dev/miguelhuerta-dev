@@ -9,8 +9,7 @@
 
 **.NET and full-stack developer · Puebla, Mexico**
 
-I build custom systems and cross-platform apps end to end: database, backend, interface and deployment.<br/>
-I also build websites that real businesses run on today.
+I build custom systems and cross-platform apps end to end: database, backend, interface and deployment.
 
 <br/>
 
@@ -19,10 +18,6 @@ I also build websites that real businesses run on today.
 [![Email](https://img.shields.io/badge/Email-miguelhuerta.softwaredev@gmail.com-222222?style=flat-square&logo=gmail&logoColor=white)](mailto:miguelhuerta.softwaredev@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message_me-222222?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5212211038688)
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=miguelhuerta-dev&locale=en&hide_border=true&background=EEEEEE&ring=222222&fire=F28B6E&currStreakNum=222222&sideNums=222222&currStreakLabel=222222&sideLabels=555555&dates=555555&stroke=D5D5D5" alt="GitHub commit streak" width="495"/>
-
 </div>
 
 <br/>
@@ -30,7 +25,7 @@ I also build websites that real businesses run on today.
 ## Featured projects
 
 ### Lumina · Clinical records system with AI
-`In production at real medical practices` · `Windows and macOS`
+`Lumina 3.0` · `In production at real medical practices` · `Windows and macOS`
 
 [![Lumina](assets/lumina.jpg)](https://miguelhuerta-dev.github.io/#lumina)
 
@@ -99,9 +94,18 @@ A client pipeline with one dashboard for the mentor and one for each mentee, rea
 
 <br/>
 
-## Also built
+## Contributions
 
-- **6 business websites** in production, including a [sports bar menu in 7 languages](https://bravarsportsbar.github.io/), a [lawyer's bilingual site](https://gabrielagonzalezvazquez.github.io/) and a [virtual oil painting gallery](https://draleticiavazquezreyes.github.io/). [See them on video](https://miguelhuerta-dev.github.io/portafolio.html).
+<div align="center">
+
+<a href="https://github.com/miguelhuerta-dev"><img src="https://ghchart.rshah.org/39d353/miguelhuerta-dev" alt="GitHub contributions in the last year" width="100%"/></a>
+
+</div>
+
+<br/>
+
+## Also building
+
 - **CLAMOR** (working title): a survival horror game set in Castile in 1580, in development. `Godot 4 · Blender · three.js prototype`
 
 <br/>
