@@ -121,6 +121,7 @@ Have a job opening or a project? I reply within 24 hours, in English or Spanish.
 [![Email](https://img.shields.io/badge/Email-miguelhuerta.softwaredev%40gmail.com-222222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelhuerta.softwaredev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-222222?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-huerta-vazquez/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message_me-222222?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5212211038688)
+[![Portfolio](https://img.shields.io/badge/Portfolio-See_projects-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://miguelhuerta-dev.github.io/)
 
 </div>
 
