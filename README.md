@@ -24,7 +24,7 @@ I build custom systems and cross-platform apps end to end: database, backend, in
 
 ## Featured projects
 
-### Lumina · Clinical records system with AI
+### Lumina · Clinical records system
 `Lumina 3.0` · `In production at real medical practices` · `Windows and macOS`
 
 [![Lumina](assets/lumina.jpg)](https://miguelhuerta-dev.github.io/#lumina)
